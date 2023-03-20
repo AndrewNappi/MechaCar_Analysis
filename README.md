@@ -26,7 +26,7 @@ What metric or metrics are you going to test?
 
 What is the null hypothesis or alternative hypothesis?
 
--Our null hypothesis in this scenario would be that our car is the same as the competition.
+- Our null hypothesis in this scenario would be that our car is the same as the competition.
 
 What statistical test would you use to test the hypothesis? And why? What data is needed to run the statistical test?
 
